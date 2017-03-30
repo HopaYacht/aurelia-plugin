@@ -1,8 +1,8 @@
 export class NatanPlugin {
 
     constructor() {
-        this.firstName =  "Netanel" ;
-        this.lastName = "Murciano" ;
+        this.firstName =  "Who Am I" ;
+        this.lastName = "Netanel Murciano" ;
         this.people = [];
         this.editing = undefined;
     }
